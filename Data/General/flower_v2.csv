@@ -41,28 +41,15 @@ Camellia japonica;;Unpretending excellence
 Campanula;;Gratitude
 Canterbury Bells;;Gratitude
 Carnation;general;"Fascination; distinction; love"
-;red;Deep romantic love, passion
-;green;Secret symbol of the followers of Oscar Wilde
-;white;Sweet and lovely, innocence, pure love, faithfulness
-;pink;A woman's love, a mother's love
-;yellow;Rejection, disdain, disappointment
-;purple;Capriciousness, whimsical, changeable, unreliability
-;mauve;Dreams of fantasy
-;striped;Refusal
-;solid color;Yes, affirmative
 Celandine;;Joys to come
 Cherry blossom;;A good education
-;;Transience of life, Mono no aware, Wabi-sabi, gentleness, kindness (in Japan)
-;;Feminine beauty (in China)
 Chestnut;;Do me justice, Chastity
 China aster;;Love of variety, fidelity
 Chrysanthemum;red;I love
-;yellow;Precious one
 Coreopsis;;Always cheerful
 Cowslip;;Winning grace
 Clove;;Undying love
 Clover;red;Industry
-;white;I promise
 Columbine;;The emblem of deceived lovers, ingratitude, faithlessness
 Coriander;;Lust
 Crocus;;Youthful joy, love, abuse not, Lupercalia
@@ -71,7 +58,6 @@ Daffodil;;"Uncertainty, chivalry, respect or unrequited love, return my affectio
 Dahlia;;Elegance and dignity
 Red Dahlia;;Betrayal and dishonesty
 Daisy;general;"Innocence, loyal love, purity, faith, cheer, simplicity; or, dissembling as in Shakespeare's Hamlet"
-;red;Beauty unknown to possessor
 Dandelion;;overcoming hardship
 Delphinium;;Levity, fun, big-hearted, ardent attachment, joy
 Eglantine rose;;A wound to heal
@@ -85,7 +71,6 @@ Geranium;;Gentility, determination
 Gladiolus;;Strength of character, honor, conviction
 Gorse;;Love in all seasons
 Heather;purple;Solitude, beauty, admiration
-;white;Protection
 Heliotrope;;Devotion
 Hibiscus;;Rare and delicate beauty
 Hollyhock;;Ambition
@@ -101,10 +86,7 @@ Laurestine;;A token
 Lavender;;Devotion, distrust
 Lemon blossom;;Discretion
 Lilac;purple;First emotion of love
-;white;Youthful innocence, memories
 Lily;white;Purity
-;scarlet;High-souled aspirations
-;orange;Desire, passion, hatred (negative)
 Lily of the valley;;Sweetness, humility, returning happiness, Trust
 Linaria bipartita;;Please notice my love/feelings for you
 Lime blossom;;Fornication
@@ -132,8 +114,6 @@ Pansy;;"Thoughts (according to Ophelia of Hamlet) Sometimes referring to ""lover
 Peach blossom;;Long-life, generosity, and bridal hope
 Pear blossom;;Lasting friendship
 Peony;;Shame, bashfulness, anger
-;;Prosperity, honor (in China)
-;;Masculinity, bravery (in Japan)
 Phlox;;Harmony
 Pitch pine blossom;;Philosophy
 Plum blossom;;Beauty and longevity
@@ -141,25 +121,8 @@ Plumeria;;Perfection, springtime, new beginnings
 Primrose;;Eternal love
 Protea;;Courage
 Poppy;general;Eternal sleep, oblivion, imagination
-;red;Pleasure, sacrifice, remembrance
-;white;Consolation, dreams, modern, peace
-;yellow;Wealth, success
 Rainflower;;I love you back, I must atone for my sins, I will never forget you
 Rose;red;True love
-;blue;Mystery, attaining the impossible, love at first sight
-;white;Silence or innocence, wistfulness, virtue, purity, secrecy, reverence and humility
-;dried white rose;Sorrow
-;black;Death, hatred, farewell, rejuvenation or rebirth
-;yellow;Friendship, jealousy, infidelity, apology, a broken heart, intense emotion, undying love, extreme betrayal
-;pink;Grace
-;dark pink;Gratitude
-;light pink;Desire, passion, joy of life, youth, energy
-;burgundy;Unconscious beauty
-;coral or orange;Desire, passion
-;lavender (violet);Love at first sight
-;red and white together;United
-;red and yellow together;Joy, happiness and excitement
-;thornless;Love at first sight
 Rosemary;;Remembrance
 Rue;;Regret, sorrow, repentance
 Sensitive plant;;Sensitivity
@@ -174,17 +137,7 @@ Thistle;;Nobility, Warning [5]
 Thyme;;Thriftiness
 Tulip-tree;;Fame
 Tulip;red;Undying love, Passion, Perfect love
-;pink;Caring, Good wishes, Friendship, Joyful Occasions, Confidence
-;purple;Nobility/Royalty, Rebirth, Spring
-;white;Forgiveness, Remembrance, Worthiness, Sincerity
-;yellow;Cheerful thoughts, Sunshine, Hope
-;blue;Respect, Tranquility, Trust
-;orange;Understanding, Appreciation, Truest love
-;black;Power, Strength, Supreme elegance
-;variegated;Beautiful eyes
 Violet;blue;Faithfulness
-;purple;Daydreaming, Love between two women
-;white;Modesty
 Viscaria (Lychnis viscaria);;Invitation to dance
 Willow (creeping);;Love forsaken
 Winged seeds (any kind);;Messengers
@@ -206,639 +159,60 @@ Calendula/Marigold;;winning grace, protection, comfort, healing, lovable
 Chrysanthemum/Peony;;cheerfulness, friendship, abundance
 Holly/Narcissus;;sweetness, self-esteem, vanity
 Amaryllis;;Shy
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Anemone (White);;Sincere
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Ambrosia;;Pious
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Aster tataricus;;Remembrance
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Azalea;;Patient/Modest
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Bluebell;;Grateful
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Cactus;;Lust/Sex
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Camellia (Red);;In Love, Perishing with grace
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Camellia (Yellow);;Longing
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Camellia (White);;Waiting
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Fritillaria camschatcensis;;Love, curse
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Carnation;;Fascination, Distinction, and Love
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Cherry Blossom;;Kind/Gentle/Transience of Life
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Chrysanthemum (Yellow);;Imperial
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Chrysanthemum (White);;Truth
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Four-leaf clover;;Lucky
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Daffodil;;Respect
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Dahlia;;Good taste
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Daisy;;Faith
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Edelweiss;;Courage/Power
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Erica;;Solitude
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Forget-me-not;;True love
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Freesia;;Childish/Immature
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Gardenia;;Secret love
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Habenaria radiata;;My thoughts will follow you into your dreams
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Hibiscus;;Gentle
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Honeysuckle;;Generous
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Hydrangea;;Pride
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Iris;;Good News/Glad tidings/loyalty
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Jasmine;;Friendly/Graceful
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Lavender;;Faithful
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Lily (White);;Purity/Chastity
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Lily (Orange);;Hatred/Revenge
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Lily of the Valley/Spider lily;;Sweet
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Tiger Lily;;Wealth
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Red Spider Lily;;Never to meet again/Lost memory/Abandonment
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Sunflower;;Respect, passionate love, radiance
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Lotus;;Far from the one he loves/Purity/Chastity
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Magnolia;;Natural
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Mistletoe/Holly;;"Looking (Single and ""--"")"
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Morning Glory;;Willful promises
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Narcissus;;Self-Esteem
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Pansy;;Thoughtful/Caring
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Peony;;Bravery
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Poppy (Red);;Fun-Loving
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Poppy (White);;Rejoice
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Poppy (Yellow);;Success
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Primrose;;Desperate
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Rose (Red);;Love/In love
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Rose (White);;Innocence/Silence/Devotion
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Rose (Yellow);;Jealousy
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Rose (Pink);;Trust/Happiness/Confidence
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Sweet Pea;;Goodbye
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Tulip (Red);;Fame/Charity/Trust
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Tulip (Yellow);;One-Sided Love
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Verbena;;Cooperative
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Violet;;Honesty
-;;
-;;
-;;
-;;
-;;
-;;
-;;
-;;
 Zinnia;;Loyalty
-;;
-;;
-;;
-;;
-;;
-;;
-;;
